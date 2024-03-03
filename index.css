@@ -668,6 +668,15 @@ footer {
   padding: 1.5rem;
   font-weight: 100;
 }
+#footer_copyright a {
+  text-decoration: none;
+  color: #7f37c9;
+  font-weight: 500;
+  margin-left: 10px;
+}
+#footer_copyright a:hover {
+  opacity: 0.8;
+}
 
 @media screen and (max-width: 768px) {
   #footer_content {
